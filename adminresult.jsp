@@ -36,7 +36,7 @@ ArrayList<ArrayList> list = new ArrayList<ArrayList>();
 		
 		list.add(new ArrayList<String>());
 		list.get(i).add(party);
-		list.get(i).add(vote);	
+		list.get(i).add(vote);	 
 		i++;
 	}	
 	HttpSession session1 = request.getSession();
