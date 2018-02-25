@@ -2,7 +2,7 @@
  *  Project name: Online Election Voting System
  * This project is licensed under the MIT License, see LICENSE.
  */ -->
-<%@page import="java.io.PrintWriter"%>
+<%@page import="java.io.PrintWriter"%> 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
   	<%@page import="model.Model, dao.Dao, java.sql.*, java.util.*" %>
